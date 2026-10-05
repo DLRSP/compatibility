@@ -10,7 +10,7 @@ Per-repository `compat:` milestones keep the pull-request link and EOL countdown
 
 <!-- BEGIN compat-timeline (generated) -->
 
-_Generated from `compat-timeline.yaml` (timeline updated 2026-06-25). Edit the timeline, not this block._
+_Generated from `compat-timeline.yaml` (timeline updated 2026-10-05). Edit the timeline, not this block._
 
 ### Support windows
 
@@ -22,7 +22,7 @@ gantt
     todayMarker on
     section Python
     3.9 :done, 2020-10-05, 2025-10-31
-    3.10 :active, 2021-10-04, 2026-10-31
+    3.10 :done, 2021-10-04, 2026-10-01
     3.11 :active, 2022-10-24, 2027-10-31
     3.12 :active, 2023-10-02, 2028-10-31
     3.13 :active, 2024-10-07, 2029-10-31
@@ -40,7 +40,7 @@ gantt
 | Version | Released | End of life | Status |
 | --- | --- | --- | --- |
 | 3.9 | 2020-10-05 | 2025-10-31 | EOL |
-| 3.10 | 2021-10-04 | 2026-10-31 | EOL in 26d |
+| 3.10 | 2021-10-04 | 2026-10-01 | EOL |
 | 3.11 | 2022-10-24 | 2027-10-31 | Supported |
 | 3.12 | 2023-10-02 | 2028-10-31 | Supported |
 | 3.13 | 2024-10-07 | 2029-10-31 | Supported |
