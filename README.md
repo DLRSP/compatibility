@@ -10,7 +10,7 @@ Per-repository `compat:` milestones keep the pull-request link and EOL countdown
 
 <!-- BEGIN compat-timeline (generated) -->
 
-_Generated from `compat-timeline.yaml` (timeline updated 2026-10-05). Edit the timeline, not this block._
+_Generated from `compat-timeline.yaml` (timeline updated 2026-10-12). Edit the timeline, not this block._
 
 ### Support windows
 
@@ -27,7 +27,7 @@ gantt
     3.12 :active, 2023-10-02, 2028-10-31
     3.13 :active, 2024-10-07, 2029-10-31
     3.14 :active, 2025-10-07, 2030-10-31
-    3.15 :active, 2026-10-01, 2031-10-31
+    3.15 :active, 2026-10-09, 2031-10-31
     section Django LTS
     3.2 LTS :done, 2021-04-06, 2024-04-01
     4.2 LTS :done, 2023-04-03, 2026-04-07
@@ -45,7 +45,7 @@ gantt
 | 3.12 | 2023-10-02 | 2028-10-31 | Supported |
 | 3.13 | 2024-10-07 | 2029-10-31 | Supported |
 | 3.14 | 2025-10-07 | 2030-10-31 | Supported |
-| 3.15 | 2026-10-01 | 2031-10-31 | Supported |
+| 3.15 | 2026-10-09 | 2031-10-31 | Supported |
 
 ### Django (LTS only)
 
